@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**edubew/edubew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hello there🤗
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me
+### I am Winfred Edube
+
+- 🌻 A full stack web development student at Microverse with love for music, reading and coding. 
+- 🌻 My goal is to create bold solutions and relevant experience for users and learn new ways to express myself through code
+- 🌻 Looking forward to make a great experience out of this
+- 👯 I’m looking to collaborate on various projects
+
+#### Git Stats
+<img src="https://github-readme-stats.vercel.app/api?username=edubew&&show_icons=true&count_private=true&theme=radical"/>
+
+📫 How to reach me: edubew98@gmail.com
+
