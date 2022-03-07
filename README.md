@@ -13,7 +13,8 @@
 #### Git Stats
 <img src="https://github-readme-stats.vercel.app/api?username=edubew&&show_icons=true&count_private=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edubew)]("https://github.com/edubew/github-readme-stats&theme=radical/")
+<img src="https://github-readme-stats.vercel.app/api/top-langs/??username=edubew&&show_icons=true&count_private=true&theme=radical"/>
+
 
 📫 How to reach me: edubew98@gmail.com
 
