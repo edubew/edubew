@@ -23,23 +23,24 @@
       </ul>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="850"/>
     </td>
   </tr>
-  </table
+  </table>
+  </br></br></br></br></br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=edubew&&show_icons=true&count_private=true&theme=radical"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edubew&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
 
-# About me
-### I am Winfred Edube
 
-- 🌻 A full stack web development student at Microverse with love for music, reading and coding. 
-- 🌻 My goal is to create bold solutions and relevant experience for users and learn new ways to express myself through code
-- 🌻 Looking forward to making a great experience out of this
-- 👯 I’m looking to collaborate on various projects
 
-#### Git Stats
-<img src="https://github-readme-stats.vercel.app/api?username=edubew&&show_icons=true&count_private=true&theme=radical"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=edubew&layout=compact&theme=radical"/>
 
 
 
