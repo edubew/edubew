@@ -1,5 +1,33 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/J5SZEif3JXj4FFn9CT/giphy.gif" width="130"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/winfred-edube-9820a422a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<h1 id= "greeting" align="center">Hello there🤗</h1>
+  <div id="head">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+    </div>
 
-#### Hello there🤗
+
+
+
+
+
+
+
+
+
+
+#### Hello there
 
 
 # About me
