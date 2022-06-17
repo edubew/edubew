@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/winfred-edube-9820a422a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+     <a href="https://mail.google.com/edubew98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
   <a href="https://twitter.com/edube_winne">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
