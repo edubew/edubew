@@ -10,22 +10,23 @@
   </a>
 </div>
 <h1 id= "greeting" align="center">Hello there🤗</h1>
-  <div id="head">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-    </div>
 
-
-
-
-
-
-
-
-
-
-
-#### Hello there
-
+<table>
+  <tr>
+    <td>
+      <h2>I am Winfred Edube</h2>
+      <ul>
+        <li>🌻 A full stack web development student at Microverse with love for music, reading and coding. </li>
+        <li>🌻 My goal is to create bold solutions and relevant experience for users and learn new ways to express myself through code</li>
+        <li>🌻 Looking forward to making a great experience out of this</li>
+        <li>👯 I’m looking to collaborate on various projects</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
+    </td>
+  </tr>
+  </table
 
 # About me
 ### I am Winfred Edube
