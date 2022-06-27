@@ -47,6 +47,19 @@
 </table>
 </br></br></br>
 
+<h3 align="center">Let's connect</h3>
+<div align="center">
+  <a href="https://twitter.com/edube_winne">
+  <img align="left" alt="Winnie Twitter" height="24px" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter.png" />
+ </a>
+ <a href="https://www.linkedin.com/in/winfred-edube-9820a422a/">
+  <img align="left" alt="Winnie LinkedIn" height="24px" src="https://raw.githubusercontent.com/edubew/edubew/main/linkedin.png" />
+ </a>
+ <a href="#">
+  <img align="left" alt="Winnie Instagram" height="24px" src="https://raw.githubusercontent.com/edubew/edubew/main/instagram.png" />
+   </a>
+</div>
+
 <h3 align="center">🛠️Tools and Frameworks</h3> 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
