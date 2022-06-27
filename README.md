@@ -46,22 +46,25 @@
   </tr>
 </table>
 </br></br></br>
-
-<h3 align="center">Let's connect</h3>
-<div align="center">
+<div>
+   <h3>Let's connect</h3>
   <a href="https://twitter.com/edube_winne">
-  <img align="left" alt="Winnie Twitter" height="24px" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter.png" />
+  <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter-icon.png" />
  </a>
  <a href="https://www.linkedin.com/in/winfred-edube-9820a422a/">
-  <img align="left" alt="Winnie LinkedIn" height="24px" src="https://raw.githubusercontent.com/edubew/edubew/main/linkedin.png" />
+  <img align="left" alt="LinkedIn"  src="https://raw.githubusercontent.com/edubew/edubew/main/linkedin-icon.png" />
  </a>
  <a href="#">
-  <img align="left" alt="Winnie Instagram" height="24px" src="https://raw.githubusercontent.com/edubew/edubew/main/instagram.png" />
+  <img align="left" alt="Pinterest" src="https://raw.githubusercontent.com/edubew/edubew/main/pinterest-icon.png" />
+   </a>
+   <a href="https://github.com/edubew">
+  <img align="left" alt="Github" src="https://raw.githubusercontent.com/edubew/edubew/main/github-icon.png" />
    </a>
 </div>
+</br></br></br>
 
-<h3 align="center">🛠️Tools and Frameworks</h3> 
-<div align="center">
+<h3>🛠️Tools and Frameworks</h3> 
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
