@@ -46,9 +46,14 @@
   </tr>
 </table>
 </br></br></br>
-<div>
+
    <h3>Let's connect</h3>
-  <a href="https://twitter.com/edube_winne">
+   <div>
+   <div align="left">
+   <img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="200" height="200"/>
+   </div>
+  <div align="right">
+      <a href="https://twitter.com/edube_winne">
   <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter-icon.png" />
  </a>
  <a href="https://www.linkedin.com/in/winfred-edube-9820a422a/">
@@ -60,6 +65,7 @@
    <a href="https://github.com/edubew">
   <img align="left" alt="Github" src="https://raw.githubusercontent.com/edubew/edubew/main/github-icon.png" />
    </a>
+</div>
 </div>
 </br></br></br>
 
