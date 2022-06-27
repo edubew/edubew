@@ -45,13 +45,8 @@
     </td>
   </tr>
 </table>
-</br></br></br>
-
-   <h3>Let's connect</h3>
-   <div>
-   <div align="left">
-   <img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="200" height="200"/>
-   </div>
+</br>
+   <h2>Let's connect</h2>
   <div align="right">
       <a href="https://twitter.com/edube_winne">
   <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter-icon.png" />
@@ -66,10 +61,9 @@
   <img align="left" alt="Github" src="https://raw.githubusercontent.com/edubew/edubew/main/github-icon.png" />
    </a>
 </div>
-</div>
-</br></br></br>
+</br></br>
 
-<h3>🛠️Tools and Frameworks</h3> 
+<h2 align"left">🛠️Tools and Frameworks</h2> 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
