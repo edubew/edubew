@@ -23,7 +23,7 @@
   </tr>
   </table>
   </br></br></br>
-  <h2>Winfred Edube's Git stats</h2>
+  <h2>My stats</h2>
 <table>
   <tr padding="5">
     <td>
