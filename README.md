@@ -22,7 +22,7 @@
     </td>
   </tr>
   </table>
-  </br></br></br>
+  </br>
   <h2>My stats📊</h2>
 <table>
   <tr padding="5">
@@ -34,10 +34,14 @@
     </td>
   </tr>
 </table>
-</br></br>
+</br>
 
 ## Certificates and Licences🥇
-   <h2>Let's connect</h2>
+  <img align="left" alt="Html-Css badge" width="100" src="https://raw.githubusercontent.com/edubew/edubew/main/Html-css.png" />
+   <img align="left" alt="JavaScript badge" width="100" src="https://raw.githubusercontent.com/edubew/edubew/main/JavaScript.png" />
+ </br>
+ 
+ ## Let's connect☺
   <div align="right">
       <a href="https://twitter.com/edube_winne">
   <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter-icon.png" />
