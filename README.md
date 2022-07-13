@@ -1,18 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/J5SZEif3JXj4FFn9CT/giphy.gif" width="130"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/winfred-edube-9820a422a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-     <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
-  </a>
-  <a href="https://twitter.com/edube_winne">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=edubew&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 id= "greeting" align="center">Hello there🤗</h1>
@@ -22,8 +11,8 @@
     <td>
       <h2>I am Winfred Edube</h2>
       <ul>
-        <li>🌻 A full stack web development student at Microverse with love for music, reading and coding. </li>
-        <li>🌻 My goal is to create bold solutions and relevant experience for users and learn new ways to express myself through code</li>
+        <li>🌻 A Full-stack web development student at Microverse with love for music, reading and coding. </li>
+        <li>🌻 My goal is to create bold solutions and relevant experience for users and learn new ways to express my ideas through code</li>
         <li>🌻 Looking forward to making a great experience out of this</li>
         <li>👯 I’m looking to collaborate on various projects</li>
       </ul>
@@ -34,7 +23,7 @@
   </tr>
   </table>
   </br></br></br>
-  <h2>Winfred Edube's Git stats</h2>
+  <h2>My stats📊</h2>
 <table>
   <tr padding="5">
     <td>
@@ -45,23 +34,28 @@
     </td>
   </tr>
 </table>
-</br></br></br>
+</br></br>
 
-<h3 align="center">Let's connect</h3>
-<div align="center">
-  <a href="https://twitter.com/edube_winne">
-  <img align="left" alt="Winnie Twitter" height="24px" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter.png" />
+## Certificates and Licences🥇
+   <h2>Let's connect</h2>
+  <div align="right">
+      <a href="https://twitter.com/edube_winne">
+  <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter-icon.png" />
  </a>
  <a href="https://www.linkedin.com/in/winfred-edube-9820a422a/">
-  <img align="left" alt="Winnie LinkedIn" height="24px" src="https://raw.githubusercontent.com/edubew/edubew/main/linkedin.png" />
+  <img align="left" alt="LinkedIn"  src="https://raw.githubusercontent.com/edubew/edubew/main/linkedin-icon.png" />
  </a>
  <a href="#">
-  <img align="left" alt="Winnie Instagram" height="24px" src="https://raw.githubusercontent.com/edubew/edubew/main/instagram.png" />
+  <img align="left" alt="Pinterest" src="https://raw.githubusercontent.com/edubew/edubew/main/pinterest-icon.png" />
+   </a>
+   <a href="https://github.com/edubew">
+  <img align="left" alt="Github" src="https://raw.githubusercontent.com/edubew/edubew/main/github-icon.png" />
    </a>
 </div>
+</br></br>
 
-<h3 align="center">🛠️Tools and Frameworks</h3> 
-<div align="center">
+<h2 align"left">🛠️Tools and Frameworks</h2> 
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
