@@ -35,7 +35,9 @@
   </tr>
 </table>
 </br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edubew)](https://github.com/edubew/github-readme-stats)
+
+## What I spent my time on this week⏳
+[![Edube](https://github-readme-stats.vercel.app/api/wakatime?username=edubew&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Certificates and Licences🥇
   <img align="left" alt="Html-Css badge" width="100" src="https://raw.githubusercontent.com/edubew/edubew/main/Html-css.png" />
