@@ -23,7 +23,7 @@
   </tr>
   </table>
   </br></br></br>
-  <h2>My stats</h2>
+  <h2>My stats</📊h2>
 <table>
   <tr padding="5">
     <td>
@@ -34,7 +34,9 @@
     </td>
   </tr>
 </table>
-</br>
+</br></br>
+
+## Certificates and Licences🥇
    <h2>Let's connect</h2>
   <div align="right">
       <a href="https://twitter.com/edube_winne">
