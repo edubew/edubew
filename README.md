@@ -38,11 +38,6 @@
 
 ## What I spent my time on this week⏳
 [![Edube](https://github-readme-stats.vercel.app/api/wakatime?username=edubew&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Certificates and Badges🥇
-  <img align="left" alt="Html-Css badge" width="100" src="https://raw.githubusercontent.com/edubew/edubew/main/Html-css.png" />
-   <img align="left" alt="JavaScript badge" width="100" src="https://raw.githubusercontent.com/edubew/edubew/main/JavaScript.png" />
- </br>
  
  ## Let's connect☺
   <div align="right">
