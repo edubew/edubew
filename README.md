@@ -27,12 +27,13 @@
 <table>
   <tr padding="5">
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=edubew&&show_icons=true&count_private=true&theme=radical"/>
+       <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edubew&show_icons=true&theme=radical" alt="Winfred Edube" width="500"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edubew&layout=compact&theme=radical"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edubew&show_icons=true&theme=radical&layout=compact" alt="Winfred Edube" width="410"/>|
     </td>
   </tr>
+</p><br>
 </table>
 </br>
 
@@ -58,9 +59,21 @@
 
 <h2 align"left">🛠️Tools and Frameworks</h2> 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+    <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+   <img src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+    <img src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
 
