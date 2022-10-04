@@ -30,7 +30,7 @@
        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edubew&show_icons=true&theme=radical" alt="Winfred Edube" width="500"/>
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edubew&show_icons=true&theme=radical&layout=compact" alt="Winfred Edube" width="410"/>|
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edubew&show_icons=true&theme=radical&layout=compact" alt="Winfred Edube" width="410"/>
     </td>
   </tr>
 </p><br>
