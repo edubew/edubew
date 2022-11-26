@@ -55,7 +55,7 @@
   <img align="left" alt="Github" src="https://raw.githubusercontent.com/edubew/edubew/main/github-icon.png" width="55"/>
    </a>
 </div>
-</br></br>
+</br></br></br>
 
 <div align="start">
 <h2>Tech & Tools Preference</h2>
