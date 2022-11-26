@@ -43,16 +43,16 @@
  ## Let's connect☺
   <div align="right">
       <a href="https://twitter.com/edube_winne">
-  <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter-icon.png" />
+  <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter-icon.png" width="55"/>
  </a>
  <a href="https://www.linkedin.com/in/winfred-edube-9820a422a/">
-  <img align="left" alt="LinkedIn"  src="https://raw.githubusercontent.com/edubew/edubew/main/linkedin-icon.png" />
+  <img align="left" alt="LinkedIn"  src="https://raw.githubusercontent.com/edubew/edubew/main/linkedin-icon.png" width="55"/>
  </a>
  <a href="#">
-  <img align="left" alt="Pinterest" src="https://raw.githubusercontent.com/edubew/edubew/main/pinterest-icon.png" />
+  <img align="left" alt="Pinterest" src="https://raw.githubusercontent.com/edubew/edubew/main/pinterest-icon.png" width="55"/>
    </a>
    <a href="https://github.com/edubew">
-  <img align="left" alt="Github" src="https://raw.githubusercontent.com/edubew/edubew/main/github-icon.png" />
+  <img align="left" alt="Github" src="https://raw.githubusercontent.com/edubew/edubew/main/github-icon.png" width="55"/>
    </a>
 </div>
 </br></br>
