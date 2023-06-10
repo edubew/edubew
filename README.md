@@ -71,6 +71,6 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" width="95">
 </div>
 <br><br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=801336&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C72C41&height=120&section=footer"/>
 
 
