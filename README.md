@@ -11,8 +11,8 @@
     <td>
       <h2>I am Winfred Edube</h2>
       <ul>
-        <li>🌻 A Full-stack web development student at Microverse with love for music, reading and coding. </li>
-        <li>🌻 My goal is to create bold solutions and relevant experience for users and learn new ways to express my ideas through code</li>
+        <li>🌻 A Full-stack web development student at Microverse with a love for music, reading, and coding. </li>
+        <li>🌻 My goal is to create bold solutions and relevant experiences for users and learn new ways to express my ideas through code</li>
         <li>🌻 Looking forward to making a great experience out of this</li>
         <li>👯 I’m looking to collaborate on various projects</li>
       </ul>
