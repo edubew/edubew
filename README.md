@@ -44,13 +44,14 @@
 </div>
 <br><br>
 
+<h2>Licence & Certicifications</h2>
 <div>
-<img src="./images/html.png" alt="html" width=""/>
-<img src="./images/javascript.png" alt="html" width=""/>
-<img src="./images/react.png" alt="html" width=""/>
-<img src="./images/ruby.png" alt="html" width=""/>
-<img src="./images/RoR.png" alt="html" width=""/>
-<img src="./images/capstone.png" alt="html" width=""/>
+<img src="./images/html.png" alt="html" width="100"/>
+<img src="./images/javascript.png" alt="html" width="100"/>
+<img src="./images/react.png" alt="html" width="100"/>
+<img src="./images/ruby.png" alt="html" width="100"/>
+<img src="./images/RoR.png" alt="html" width="100"/>
+<img src="./images/capstone.png" alt="html" width="100"/>
 </div>
 
 <div align="left">
@@ -66,7 +67,7 @@
   <img align="left" alt="LinkedIn"  src="./images/linkedin-icon.png" width="55"/>
  </a>
  <a href="#">
-  <img align="left" alt="Pinterest" src=".images/pinterest-icon.png" width="55"/>
+  <img align="left" alt="Pinterest" src="./images/pinterest-icon.png" width="55"/>
    </a>
    <a href="https://github.com/edubew">
   <img align="left" alt="Github" src="./images/github-icon.png" width="55"/>
