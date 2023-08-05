@@ -1,10 +1,10 @@
 
-<h1 id= "greeting" align="center">Hello there🤗</h1>
+<h1 align="center">Hello🤗, I am Winfred Edube</h1>
 <br>
   <img  align="right" height="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
 
-### About Me...
+### Here's A Little About Me...
 - 📚 Lifelong Learner: I'm always seeking opportunities to expand my knowledge and skills, both in web development and other areas of interest.
 - 🎧 Music Enthusiast: Besides coding and reading, I'm passionate about music. I enjoy exploring different genres
 - 🎨 Creative Coding: I believe in adding a touch of creativity to my coding projects.  I aim to make my code an art form.
@@ -13,7 +13,7 @@
 - 🏆 Goal-driven: Constantly setting milestones to measure my progress and ensure I'm on track to achieve my aspirations.
 - 🎓 Educational Background: Full-stack Development student at Microverse, a remote school that uses pair programming to teach development
   </br>
-  <h2>My stats📊</h2>
+  <h2>My stats⚡</h2>
 
 | | |
 | :---: | :---: |
@@ -22,7 +22,7 @@
 </br>
 
 <div align="start">
-<h2>Tech & Tools Preference</h2>
+<h2>Tech & Tools Preference🛠</h2>
 <img src = "https://img.shields.io/badge/-HTML5-EB6424?style=flat&logo=html5&logoColor=white" width="75">
 <img src = "https://img.shields.io/badge/-CSS3-0162A7?style=flat&logo=css3&logoColor=white" width="70">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" width="105">
@@ -44,7 +44,7 @@
 </div>
 <br><br>
 
-<h2>Licence & Certicifications</h2>
+<h2>Licence & Certicifications👩‍🎓</h2>
 <div>
 <img src="./images/html.png" alt="html" width="100"/>
 <img src="./images/javascript.png" alt="html" width="100"/>
