@@ -44,6 +44,15 @@
 </div>
 <br><br>
 
+<div>
+<img src="./images/html.png" alt="html" width=""/>
+<img src="./images/javascript.png" alt="html" width=""/>
+<img src="./images/react.png" alt="html" width=""/>
+<img src="./images/ruby.png" alt="html" width=""/>
+<img src="./images/RoR.png" alt="html" width=""/>
+<img src="./images/capstone.png" alt="html" width=""/>
+</div>
+
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=edubew&style=flat-square&color=blue" alt=""/>
 </div>
@@ -51,16 +60,16 @@
  ## Let's connect☺
   <div align="right">
       <a href="https://twitter.com/edube_winne">
-  <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/edubew/edubew/main/twitter-icon.png" width="55"/>
+  <img align="left" alt="Twitter" src="./images/twitter-icon.png" width="55"/>
  </a>
  <a href="https://www.linkedin.com/in/winfred-edube-9820a422a/">
-  <img align="left" alt="LinkedIn"  src="https://raw.githubusercontent.com/edubew/edubew/main/linkedin-icon.png" width="55"/>
+  <img align="left" alt="LinkedIn"  src="./images/linkedin-icon.png" width="55"/>
  </a>
  <a href="#">
-  <img align="left" alt="Pinterest" src="https://raw.githubusercontent.com/edubew/edubew/main/pinterest-icon.png" width="55"/>
+  <img align="left" alt="Pinterest" src=".images/pinterest-icon.png" width="55"/>
    </a>
    <a href="https://github.com/edubew">
-  <img align="left" alt="Github" src="https://raw.githubusercontent.com/edubew/edubew/main/github-icon.png" width="55"/>
+  <img align="left" alt="Github" src="./images/github-icon.png" width="55"/>
    </a>
 </div>
 </br></br></br>
