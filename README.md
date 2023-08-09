@@ -39,23 +39,18 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" width="54">
 <img src="http://img.shields.io/badge/-Github-7D3CAF?style=flat&logo=github&logoColor=FFFFFF" width="80">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" width="95">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" width="80">
 <img src="https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white" width="65">
 </div>
 <br><br>
 
 <h2>Licence & Certicifications👩‍🎓</h2>
 <div>
-<img src="./images/html.png" alt="html" width="100"/>
-<img src="./images/javascript.png" alt="html" width="100"/>
-<img src="./images/react.png" alt="html" width="100"/>
-<img src="./images/ruby.png" alt="html" width="100"/>
-<img src="./images/RoR.png" alt="html" width="100"/>
-<img src="./images/capstone.png" alt="html" width="100"/>
-</div>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=edubew&style=flat-square&color=blue" alt=""/>
+<img src="./images/html.png" alt="html" width="92"/>
+<img src="./images/javascript.png" alt="html" width="92"/>
+<img src="./images/react.png" alt="html" width="92"/>
+<img src="./images/ruby.png" alt="html" width="92"/>
+<img src="./images/RoR.png" alt="html" width="92"/>
+<img src="./images/capstone.png" alt="html" width="92"/>
 </div>
  
  ## Let's connect☺
