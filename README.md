@@ -18,7 +18,7 @@
 | | |
 | :---: | :---: |
 | ![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=edubew&show_icons=true&theme=radical) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=edubew&theme=radical) | 
-| [![Edube's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leeoasis&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=edubew&show_icons=true&theme=radical&layout=compact) |
+| [![Edube's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edubew&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=edubew&show_icons=true&theme=radical&layout=compact) |
 </br>
 
 <div align="start">
