@@ -53,7 +53,7 @@
 <img src="./images/capstone.png" alt="html" width="92"/>
 </div>
  
- ## Let's connect☺
+ <h2>Let's connect☺</h2>
   <div align="right">
       <a href="https://twitter.com/edube_winne">
   <img align="left" alt="Twitter" src="./images/twitter-icon.png" width="55"/>
