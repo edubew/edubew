@@ -61,9 +61,9 @@
  <a href="https://www.linkedin.com/in/winfred-edube-9820a422a/">
   <img align="left" alt="LinkedIn"  src="./images/linkedin-icon.png" width="55"/>
  </a>
- <a href="#">
+<!--  <a href="#">
   <img align="left" alt="Pinterest" src="./images/pinterest-icon.png" width="55"/>
-   </a>
+   </a> -->
    <a href="https://github.com/edubew">
   <img align="left" alt="Github" src="./images/github-icon.png" width="55"/>
    </a>
