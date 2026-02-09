@@ -54,7 +54,7 @@
 <img src="./images/capstone.png" alt="html" width="92"/>
 </div>
  
- <h2>Let's connect☺</h2>
+ <h2>Let's connect</h2>
   <div align="right">
       <a href="https://twitter.com/edube_winne">
   <img align="left" alt="Twitter" src="./images/twitter-icon.png" width="55"/>
@@ -69,6 +69,6 @@
 </br></br></br>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=80&section=footer"/>
 
 
