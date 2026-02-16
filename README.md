@@ -5,13 +5,9 @@
 </div>
 
 ### Here's A Little About Me...
-- 📚 Lifelong Learner: I'm always seeking opportunities to expand my knowledge and skills, both in web development and other areas of interest.
-- 🎧 Music Enthusiast: Besides coding and reading, I'm passionate about music. I enjoy exploring different genres
-- 🎨 Creative Coding: I believe in adding a touch of creativity to my coding projects.  I aim to make my code an art form.
-- 💡 Entrepreneurial Spirit: Beyond the technical aspects, I'm eager to explore how my coding skills can contribute to entrepreneurial ventures
-- 🤝 Open to Learning: I'm always open to different viewpoints and techniques, valuing the mutual growth that comes from teamwork.
-- 🏆 Goal-driven: Constantly setting milestones to measure my progress and ensure I'm on track to achieve my aspirations.
-- 🎓 Educational Background: Full-stack Development student at Microverse, a remote school that uses pair programming to teach development
+I am a Freelance full-stack developer who treats code like art. Currently building personal projects and exploring where tech meets entrepreneurship. When I'm not coding, you'll find me discovering new music or learning something completely random.
+What drives me: Making things that are both functional and beautiful • Turning ideas into reality • The thrill of solving problems in creative ways</br>
+🎓 Microverse grad | 🎧 Music lover | 💡 Always tinkering
   </br>
   
   <h2>My stats⚡</h2>
