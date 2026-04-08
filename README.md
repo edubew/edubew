@@ -5,7 +5,7 @@
 </div>
 
 ### Here's A Little About Me...
-I am a Freelance full-stack developer building clean, reliable web applications from idea to deployment. Currently working on personal projects and exploring where tech meets entrepreneurship. When I'm not coding, you'll find me discovering new music, planning events, transforming spaces with creative decor, or learning something completely random.
+I am a Freelance full-stack developer building reliable web applications from idea to deployment. Currently working on personal projects and exploring where tech meets entrepreneurship. When I'm not coding, you'll find me planning events, transforming spaces with creative decor, or learning something completely random.
 What drives me: Making things that are both functional and beautiful • Turning ideas into reality • The thrill of solving problems in creative ways</br>
 🎓 Microverse grad | 🎧 Music lover | 🎨 Decor & events enthusiast
   </br>
